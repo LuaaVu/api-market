@@ -19,6 +19,7 @@
 				echo "Loi ket noi: " . $exception->getMessage() ."!"; 
 			}
 			return $this->connection;
+			// sua lai file nay
 		}
 		
 	}
