@@ -41,7 +41,7 @@
 		
 		// xuat file json
 		echo json_encode($products_arr);
-		
+		// sua fine nay
 		/*$product_arr = array(
 			"status" => true,
 			"message" => "Lay du lieu thanh cong",
