@@ -7,6 +7,8 @@
 		
 		public $connection;
 		
+		// sua file config aa
+		
 		// get the database connection 
 		public function getConnection(){
 			$this->connection = null;
