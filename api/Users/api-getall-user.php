@@ -19,6 +19,7 @@
 	if($num > 0){
 		
 		// product array
+		// da sua
 		$product_arr = array();
 		$products_arr["product"] = array();
 		
